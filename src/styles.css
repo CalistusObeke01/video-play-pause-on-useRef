@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.title-header {
+  margin-bottom: -16px;
+}
+.sub-title {
+  margin-bottom: 2rem;
+  color: #3b0505;
+}
+.play-pause-btn {
+  margin-top: 1em;
+  padding: 0.5em 0.8em;
+  cursor: pointer;
+}
